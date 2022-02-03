@@ -2,7 +2,7 @@
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="330" height="250">
 
-<p align="right">
+<p align="center">
   <br />
   <br />
   <samp>
