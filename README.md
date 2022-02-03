@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="330" height="250">
 
-<p align="center">
+<p align="right">
   <br />
   <br />
   <samp>
@@ -16,24 +17,35 @@
                         Loving Life🌼♥️🥰
   </samp>
 </p> 
+<br/>
 
+<!--
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width='360' height='270' />
+
+-->
 
 <!--
 **zhngjan/zhngjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+ - 🔭 I’m currently working on ...   
+ - 🌱 I’m currently learning ...   
+ - 👯 I’m looking to collaborate on ...   
+ - 🤔 I’m looking for help with ...   
+ - 💬 Ask me about ...   
+ - 📫 How to reach me: ...   
+ - 😄 Pronouns: ...   
+ - ⚡ Fun fact: ...    
 
+<br/>
+<br/>
 
-<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="300" height="230">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhngjan)](https://github.com/zhngjan/github-readme-stats) 
 -->
@@ -64,22 +76,20 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
-
-
-<br/>
-<br/>
+  
+  
+  
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight"/>
 </a>
-
+</p>
+  
+<br/>
+<br/>
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight)
 -->
-  
-<br/>
-<br />
-<br/>
 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
