@@ -43,6 +43,32 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhngjan)](https://github.com/zhngjan/github-readme-stats) 
 -->
 <!-- https://simpleicons.org/?q=zet -->   
+<!-- Codemagic -->
+<!-- GreenSock -->
+<!-- Grav -->
+<!-- HappyCow -->
+<!-- Hashnode -->
+<!-- Homebrew -->
+<!-- Hyper -->
+<!-- Fastly -->
+<!-- iCloud -->
+<!-- iFixit -->
+<!-- Mail.Ru -->
+<!-- Matrix -->
+<!-- Metro -->
+<!-- Moo -->
+<!-- Nintendo Switch -->
+<!-- OpenAI Gym -->
+<!-- Rancher -->
+<!-- Red Hat -->
+<!-- Ruby Sinatra -->
+<!-- Zorin -->
+<!-- Zulip -->
+<!-- Zerply -->
+<!-- Zendesk -->
+<!-- Zigbee -->
+<!-- Zenodo -->
+<!-- Tesla -->
 
 ### 👨‍💻 My Favourite Languages and Tools
 <!-- [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
@@ -60,15 +86,14 @@ Here are some ideas to get you started:
 [![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-
-
+[![SciPy](https://img.shields.io/badge/-SciPy-black?style=flat&logo=SciPy&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Codemagic&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=flat&logo=RaspberryPi&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![IEEE](https://img.shields.io/badge/-IEEE-black?style=flat&logo=IEEE&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![HHKB](https://img.shields.io/badge/-HHKB-black?style=flat&logo=Bluetooth&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Colemak](https://img.shields.io/badge/-Colemak-black?style=flat&logo=Minetest&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Hacker](https://img.shields.io/badge/-Hacker-black?style=flat&logo=Hacker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Codemagic&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Hacker](https://img.shields.io/badge/-Hacker-black?style=flat&logo=RedHat&color=black&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![microbit](https://img.shields.io/badge/-Micro:bit-black?style=flat&logo=microbit&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 <!-- [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
@@ -79,7 +104,8 @@ Here are some ideas to get you started:
 [![Latex](https://img.shields.io/badge/-LaTex-black?style=flat&logo=LaTex&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zotero&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zerply&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
