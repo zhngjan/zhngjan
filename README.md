@@ -17,10 +17,10 @@
   </samp>
 </p> 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <!--
 **zhngjan/zhngjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<img align='right' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="300" height="230">
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhngjan)](https://github.com/zhngjan/github-readme-stats) 
+-->
 
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -63,12 +66,13 @@ Here are some ideas to get you started:
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
 
 
-
-
+<br/>
+<br/>
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img src="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+  
 <br/>
 <br />
 <br/>
