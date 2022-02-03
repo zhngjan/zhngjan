@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhngjan)](https://github.com/zhngjan/github-readme-stats) 
 -->
+<!-- https://simpleicons.org/?q=zet -->   
+
 ### 👨‍💻 My Favourite Languages and Tools
 <!-- [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
@@ -59,21 +61,25 @@ Here are some ideas to get you started:
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
+
+
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=flat&logo=RaspberryPi&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![IEEE](https://img.shields.io/badge/-IEEE-black?style=flat&logo=IEEE&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![HHKB](https://img.shields.io/badge/-HHKB-black?style=flat&logo=HHKB&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Colemak](https://img.shields.io/badge/-Colemak-black?style=flat&logo=Keyboard&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![HHKB](https://img.shields.io/badge/-HHKB-black?style=flat&logo=Bluetooth&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Colemak](https://img.shields.io/badge/-Colemak-black?style=flat&logo=Minetest&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Hacker](https://img.shields.io/badge/-Hacker-black?style=flat&logo=Hacker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Material&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Codemagic&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![microbit](https://img.shields.io/badge/-Micro:bit-black?style=flat&logo=microbit&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 <!-- [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
+<!-- [![Emacs](https://img.shields.io/badge/-Emacs-black?style=flat&logo=GNUEmacs&link=https://github.com/zhngjan)](https://github.com/zhngjan) -->
 [![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Neovim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=Markdown&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Latex](https://img.shields.io/badge/-LaTex-black?style=flat&logo=LaTex&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zettelkasten&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zotero&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
