@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <!-- Fastly -->
 <!-- iCloud -->
 <!-- iFixit -->
+<!-- Material Design Icons -->
 <!-- Mail.Ru -->
 <!-- Matrix -->
 <!-- Metro -->
@@ -69,6 +70,7 @@ Here are some ideas to get you started:
 <!-- Zigbee -->
 <!-- Zenodo -->
 <!-- Tesla -->
+
 
 ### 👨‍💻 My Favourite Languages and Tools
 <!-- [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
@@ -87,7 +89,7 @@ Here are some ideas to get you started:
 [![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![SciPy](https://img.shields.io/badge/-SciPy-black?style=flat&logo=SciPy&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Codemagic&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=MaterialDesignIcons&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=flat&logo=RaspberryPi&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![IEEE](https://img.shields.io/badge/-IEEE-black?style=flat&logo=IEEE&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
@@ -98,13 +100,14 @@ Here are some ideas to get you started:
 <!-- [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
 <!-- [![Emacs](https://img.shields.io/badge/-Emacs-black?style=flat&logo=GNUEmacs&link=https://github.com/zhngjan)](https://github.com/zhngjan) -->
-[![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
+<!-- [![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim&link=https://github.com/zhngjan)](https://github.com/zhngjan) -->
+<!-- [![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 [![Neovim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=Markdown&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Latex](https://img.shields.io/badge/-LaTex-black?style=flat&logo=LaTex&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zerply&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Wiki](https://img.shields.io/badge/-Wiki-black?style=flat&logo=PCGamingWiki&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://github.com/zhngjan)](https://github.com/zhngjan)
