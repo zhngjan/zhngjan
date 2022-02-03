@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 [![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat&logo=ArchLinux&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![dwm](https://img.shields.io/badge/-dwm-black?style=flat&logo=dwm&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![alacritty](https://img.shields.io/badge/-alacritty-black?style=flat&logo=alacritty&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+<!-- [![ArchLinux](https://img.shields.io/badge/-ArchLinux-black?style=flat&logo=ArchLinux&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
+<!-- [![dwm](https://img.shields.io/badge/-dwm-black?style=flat&logo=dwm&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat&logo=tensorflow&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
@@ -60,19 +60,28 @@ Here are some ideas to get you started:
 [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-black?style=flat&logo=RaspberryPi&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![IEEE](https://img.shields.io/badge/-IEEE-black?style=flat&logo=IEEE&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![Volt](https://img.shields.io/badge/-circuit-black?style=flat&logo=circuit&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
-[![HHKB](https://img.shields.io/badge/-hhkb-black?style=flat&logo=hhkb&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![HHKB](https://img.shields.io/badge/-HHKB-black?style=flat&logo=HHKB&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Colemak](https://img.shields.io/badge/-Colemak-black?style=flat&logo=Keyboard&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Hacker](https://img.shields.io/badge/-Hacker-black?style=flat&logo=Hacker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Material](https://img.shields.io/badge/-Material-black?style=flat&logo=Material&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+<!-- [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
 [![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Neovim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&link=https://github.com/zhngjan)](https://github.com/zhngjan)
+[![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=Markdown&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Latex](https://img.shields.io/badge/-LaTex-black?style=flat&logo=LaTex&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Obsidian](https://img.shields.io/badge/-Obsidian-black?style=flat&logo=Obsidian&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Zettelkasten](https://img.shields.io/badge/-Zettelkasten-black?style=flat&logo=Zettelkasten&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=leetCode&link=https://github.com/zhngjan)](https://github.com/zhngjan)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/zhngjan)](https://github.com/zhngjan)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/zhngjan)](https://github.com/zhngjan) 
+[![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=Nginx&link=https://github.com/zhngjan)](https://github.com/zhngjan)
+<!-- [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/zhngjan)](https://github.com/zhngjan)  -->
 
 <br/>  
 
@@ -81,6 +90,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight"/>
 </a>
 </p>
+
+<!-- 
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=zhngjan&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhngjan&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=tokyonight&langs_count=6&layout=compact" />
+</div> 
+-->
+
 
 <br/>
 <!--
