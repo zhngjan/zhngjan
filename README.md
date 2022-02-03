@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+<p align="center">
+  <br />
+  <br />
+  <samp>
+    I'm 阿剑 :wave:
+    <br />
+    Software Engineering !
+    <br />
+    Vimer
+    <br><br>
+    <!-- * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql * -->
+                  <br> || Can code in Java, python, Go, Rust  || <br>
+                        Loving Life🌼♥️🥰
+  </samp>
+</p> 
+
+
 <!--
 **zhngjan/zhngjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,12 +31,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="right">
-  Made with :heart: &nbsp;using GitHub Markdown
-  <br/>
-   <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
 ### 👨‍💻 Languages and Tools
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
@@ -47,21 +63,6 @@ Here are some ideas to get you started:
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
 
 
-<p align="center">
-  <br />
-  <br />
-  <samp>
-    I'm 阿剑 :wave:
-    <br />
-    Software Engineering !
-    <br />
-    Vimer
-    <br><br>
-    <!-- * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql * -->
-                  <br> || Can code in Java, python, Go, Rust  || <br>
-                        Loving Life🌼♥️🥰
-  </samp>
-</p> 
 
 
 <p align="center">
@@ -72,12 +73,12 @@ Here are some ideas to get you started:
 <br />
 <br/>
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
-
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown
+  <br/>
+   <br/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/zhngjan/count.svg)
 
