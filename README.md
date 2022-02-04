@@ -7,7 +7,7 @@
   <samp>
     I'm ajan :wave:
     <br />
-    Software Engineering !
+    Software Engineer !
     <br />
     Vimer
     <br>
