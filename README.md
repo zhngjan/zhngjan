@@ -13,7 +13,7 @@
     <br>
     <!-- * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql * -->
                   <br> || Having fun with Java/python/Go/Rust  || <br>
-                        Loving Life🌼♥️🥰
+                        To be a man who loves life🌼♥️🥰
   </samp>
 </p> 
 <br/>
