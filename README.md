@@ -12,7 +12,7 @@
     Vimer
     <br>
     <!-- * #DevCommunity * #100DaysOfCode * #100DaysOfMLCode * ML/DL/RL Enthusiasts * Flutter * ReactJs * MySql * -->
-                  <br> || Can code in Java, python, Go, Rust  || <br>
+                  <br> || Having fun with Java/python/Go/Rust  || <br>
                         Loving Life🌼♥️🥰
   </samp>
 </p> 
